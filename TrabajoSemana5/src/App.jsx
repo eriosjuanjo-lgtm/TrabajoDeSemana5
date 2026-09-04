@@ -1,14 +1,12 @@
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Home from "./views/Home";
+import Navbar from "./components/Navbar.jsx";
+import Footer from "./components/Footer.jsx";
+import Home from "./views/Home.jsx";
 
 function App() {
   return (
     <>
       <Navbar />
-
       <Home />
-
       <Footer />
     </>
   );

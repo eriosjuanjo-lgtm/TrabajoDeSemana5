@@ -1,4 +1,4 @@
-import ListaUsuarios from "../components/ListaUsuarios";
+import ListaUsuarios from "../components/ListaUsuarios.jsx";
 
 function Home() {
   return (

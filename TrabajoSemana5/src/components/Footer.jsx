@@ -1,14 +1,14 @@
 function Footer() {
   return (
     <footer className="footer">
-      <h3>Mi Proyecto React</h3>
+      <h3>Mi Trabajo semana 5</h3>
 
       <p>
-        Proyecto desarrollado utilizando React y Vite.
+        Mi trabajo de mi semana 5 
       </p>
 
       <p>
-        © 2026 - Todos los derechos reservados.
+        Creado Por Juan Jose Echavarria Rios
       </p>
     </footer>
   );
